@@ -2,9 +2,10 @@
   "name": "netlify-cms-widget-color",
   "description": "Widget for editing plain string values in Netlify CMS.",
   "version": "0.1.0",
-  "homepage": "https://www.netlifycms.org/docs/widgets/#color",
-  "repository": "https://github.com/netlify/netlify-cms/tree/master/packages/netlify-cms-widget-color",
-  "bugs": "https://github.com/netlify/netlify-cms/issues",
+  "author": "Carlos Guimarães <sekmet@open4g.com>",
+  "homepage": "https://github.com/sekmet/netlify-cms-widget-color",
+  "repository": "https://github.com/sekmet/netlify-cms-widget-color",
+  "bugs": "https://github.com/sekmet/netlify-cms-widget-color/issues",
   "main": "dist/netlify-cms-widget-color.js",
   "license": "MIT",
   "keywords": [
