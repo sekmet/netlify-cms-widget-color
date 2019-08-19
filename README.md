@@ -33,7 +33,7 @@ Add to your Netlify CMS configuration:
 
 ```yaml
     fields:
-      - { name: <fieldname>, label: <fieldlabel>, widget: fontpicker }
+      - { name: <fieldname>, label: <fieldlabel>, widget: color }
 ```
 
 
