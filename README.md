@@ -1,9 +1,9 @@
-# netlify-cms-widget-color
+# netlify-cms-widget-colorpickers
 
 A Collection of Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter, Material Design & more widget for Netlify CMS.
 
-[![npm version](https://badge.fury.io/js/netlify-cms-widget-color.svg)](https://badge.fury.io/js/netlify-cms-widget-color)
-[![GitHub version](https://badge.fury.io/gh/sekmet%2Fnetlify-cms-widget-color.svg)](https://badge.fury.io/gh/sekmet%2Fnetlify-cms-widget-color)
+[![npm version](https://badge.fury.io/js/netlify-cms-widget-colorpickers.svg)](https://badge.fury.io/js/netlify-cms-widget-colorpickers)
+[![GitHub version](https://badge.fury.io/gh/sekmet%2Fnetlify-cms-widget-colorpickers.svg)](https://badge.fury.io/gh/sekmet%2Fnetlify-cms-widget-colorpickers)
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
 
@@ -12,18 +12,18 @@ A Collection of Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter, M
 As an npm package:
 
 ```shell
-yarn add netlify-cms-widget-color
+yarn add netlify-cms-widget-colorpickers
 
 OR
 
-npm install --save netlify-cms-widget-color
+npm install --save netlify-cms-widget-colorpickers
 ```
 
 ```js
-import NetlifyCmsWidgetColor from 'netlify-cms-widget-color';
+import NetlifyCmsWidgetColorpickers from 'netlify-cms-widget-colorpickers';
 
 CMS.registerWidget([
-  NetlifyCmsWidgetColor.Widget()
+  NetlifyCmsWidgetColorpickers.Widget()
 ])
 ```
 
@@ -33,7 +33,7 @@ Add to your Netlify CMS configuration:
 
 ```yaml
     fields:
-      - { name: <fieldname>, label: <fieldlabel>, widget: color }
+      - { name: <fieldname>, label: <fieldlabel>, widget: colorpickers }
 ```
 
 

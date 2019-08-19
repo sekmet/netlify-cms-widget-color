@@ -1,18 +1,18 @@
 {
-  "name": "netlify-cms-widget-color",
-  "description": "Widget for editing plain string values in Netlify CMS.",
-  "version": "0.1.0",
+  "name": "netlify-cms-widget-colorpickers",
+  "description": "A Collection of Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter, Material Design & more widget for Netlify CMS.",
+  "version": "0.2.0",
   "author": "Carlos Guimarães <sekmet@open4g.com>",
   "homepage": "https://github.com/sekmet/netlify-cms-widget-color",
   "repository": "https://github.com/sekmet/netlify-cms-widget-color",
   "bugs": "https://github.com/sekmet/netlify-cms-widget-color/issues",
-  "main": "dist/netlify-cms-widget-color.js",
+  "main": "dist/netlify-cms-widget-colorpickers.js",
   "license": "MIT",
   "keywords": [
     "netlify",
     "netlify-cms",
     "widget",
-    "color",
+    "color-pickers",
     "sketch"
   ],
   "sideEffects": false,

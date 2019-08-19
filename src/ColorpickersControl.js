@@ -5,7 +5,7 @@ import { SketchPicker } from 'react-color';
 //const uniqid = require('uniqid');
 //const pId = uniqid();
 
-export default class ColorControl extends React.Component {
+export default class ColorpickersControl extends React.Component {
   state = {
     displayColorPicker: false,
     color: {
