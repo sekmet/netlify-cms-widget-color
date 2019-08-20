@@ -61,7 +61,7 @@ export default class ColorpickersControl extends React.Component {
                     height: '58px',
                     borderRadius: '3px',
                     //background: `rgba(${ this.state.color.r }, ${ this.state.color.g }, ${ this.state.color.b }, ${ this.state.color.a })`,
-                    backgroundColor: `${ this.state.color ? this.state.color : this.props.value }`,
+                    backgroundColor: `${ this.props.value ? this.props.value : this.state.color }`,
                 },
                 swatch: {
                     padding: '6px',
