@@ -14,7 +14,7 @@ export default class ColorpickersControl extends React.Component {
           b: '19',
           a: '1',
         },*/
-        color: ''
+        color: '#ffffff'
     };
 
     static propTypes = {

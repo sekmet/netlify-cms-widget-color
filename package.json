@@ -1,7 +1,7 @@
 {
   "name": "netlify-cms-widget-colorpickers",
   "description": "A Collection of Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter, Material Design & more widget for Netlify CMS.",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "author": "Carlos Guimarães <sekmet@open4g.com>",
   "homepage": "https://github.com/sekmet/netlify-cms-widget-color",
   "repository": "https://github.com/sekmet/netlify-cms-widget-color",
